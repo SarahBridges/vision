@@ -9,3 +9,12 @@ p {
     text-align: center;
     color: darkviolet;
   }
+img {
+        align: center;
+        width: 600px;
+        height: 600px;
+    }
+h4 {
+        text-align: center;
+        color: darkmagenta;
+   }
