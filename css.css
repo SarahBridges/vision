@@ -10,7 +10,6 @@ p {
     color: darkviolet;
   }
 img {
-        align: center;
         width: 1000px;
         height: 600px;
     }
@@ -18,3 +17,8 @@ h3 {
         text-align: center;
         color: darkmagenta;
    }
+.center {
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+        }
